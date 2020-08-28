@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Diana's GitHub Page! Currently in Progress so check back for updates
 title: Welcome to Diana's homepage!
 description: Feel free to bookmark this to keep an eye on my project updates
 You can use the [editor on GitHub](https://github.com/dianaroyergit/dianaroyer.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
